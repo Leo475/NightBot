@@ -1,0 +1,15 @@
+{
+    "name": "night bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "GamerGame",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^12.3.1"
+    },
+
+    "scripts":{
+        "start": "node index.js"
+    }
+}
